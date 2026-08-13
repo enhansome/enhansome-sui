@@ -49,10 +49,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T01:41:04Z",
+                "last_commit": "2026-08-13T10:49:17Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7735
+                "stars": 7734
               }
             }
           ]
@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T10:49:17Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7734
           }
         },
         {
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T10:49:17Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7734
           }
         },
         {
@@ -234,10 +234,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-13T01:41:04Z",
+                "last_commit": "2026-08-13T10:49:17Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7735
+                "stars": 7734
               }
             }
           ]
@@ -255,7 +255,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T11:23:17Z",
+                "last_commit": "2026-08-13T10:16:03Z",
                 "owner": "FrankC01",
                 "repo": "pysui",
                 "stars": 212
@@ -904,7 +904,7 @@
                 "last_commit": "2025-10-04T18:03:42Z",
                 "owner": "denyskozak",
                 "repo": "react-sui-zk-login-kit",
-                "stars": 23
+                "stars": 37
               }
             }
           ]
@@ -1054,10 +1054,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:41:04Z",
+            "last_commit": "2026-08-13T10:49:17Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7734
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:42.467Z",
+    "last_updated": "2026-08-13T11:08:04.373Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
     "enhanced_repository": "enhansome/enhansome-sui",
