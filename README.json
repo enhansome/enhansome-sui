@@ -49,7 +49,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T07:03:51Z",
+                "last_commit": "2026-08-15T18:23:02Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7735
@@ -73,7 +73,7 @@
                 "last_commit": "2026-02-25T02:08:31Z",
                 "owner": "movebit",
                 "repo": "sui-move-analyzer",
-                "stars": 42
+                "stars": 40
               }
             }
           ]
@@ -113,7 +113,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T07:03:51Z",
+            "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7735
@@ -127,7 +127,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T07:03:51Z",
+            "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7735
@@ -234,7 +234,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-15T07:03:51Z",
+                "last_commit": "2026-08-15T18:23:02Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7735
@@ -318,7 +318,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Dart",
-                "last_commit": "2026-07-28T16:10:19Z",
+                "last_commit": "2026-08-15T17:39:00Z",
                 "owner": "mofalabs",
                 "repo": "sui",
                 "stars": 37
@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-07T14:52:03Z",
                 "owner": "mcxross",
                 "repo": "ksui",
-                "stars": 19
+                "stars": 18
               }
             }
           ]
@@ -577,10 +577,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:36:41Z",
+            "last_commit": "2026-08-15T18:50:52Z",
             "owner": "sentioxyz",
             "repo": "typemove",
-            "stars": 53
+            "stars": 52
           }
         },
         {
@@ -1054,7 +1054,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T07:03:51Z",
+            "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7735
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:34:03.695Z",
+    "last_updated": "2026-08-16T10:37:01.822Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
     "enhanced_repository": "enhansome/enhansome-sui",

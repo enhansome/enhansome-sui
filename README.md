@@ -47,7 +47,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
   * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,735 | 🐛 811 | 🌐 Rust | 📅 2026-08-15 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 * VSCode Sui Move Analyzer by MoveBit - Alternative VSCode extension developed by MoveBit.
-  * [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) ⭐ 42 | 🐛 4 | 🌐 Rust | 📅 2026-02-25 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
+  * [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) ⭐ 40 | 🐛 4 | 🌐 Rust | 📅 2026-02-25 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 * IntelliJ Sui Move Language Plugin - IntelliJ-based plugin for Move on Sui development.
   * [Homepage](https://plugins.jetbrains.com/plugin/23301-sui-move-language) - [GitHub](https://github.com/movefuns/intellij-move) ⭐ 69 | 🐛 10 | 🌐 Kotlin | 📅 2025-08-23
 
@@ -77,9 +77,9 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Go SDK (Pattonkan) - Golang SDK to interact with Sui Blockchain. Support PTB and devInspect.
   * [GitHub](https://github.com/pattonkan/sui-go) ⭐ 12 | 🐛 14 | 🌐 Go | 📅 2026-04-11 - [API Documentation](https://pkg.go.dev/github.com/pattonkan/sui-go) - [Examples](https://github.com/pattonkan/sui-go/tree/main/examples) ⭐ 12 | 🐛 14 | 🌐 Go | 📅 2026-04-11 - [Further Information](details/go_sui.md)
 * Sui Dart SDK - Dart SDK to interact with Sui Blockchain.
-  * [GitHub](https://github.com/mofalabs/sui) ⭐ 37 | 🐛 0 | 🌐 Dart | 📅 2026-07-28 - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
+  * [GitHub](https://github.com/mofalabs/sui) ⭐ 37 | 🐛 0 | 🌐 Dart | 📅 2026-08-15 - [API documentation](https://pub.dev/documentation/sui/latest/) - [Further Information](details/sdk_sui_dart.md)
 * Sui Kotlin SDK - Kotlin Multiplatform (KMP) SDK for integrating with the Sui Blockchain.
-  * [GitHub](https://github.com/mcxross/ksui) ⭐ 19 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-07 - [Documentation](https://suicookbook.com) - [Further Information](details/sdk_ksui.md)
+  * [GitHub](https://github.com/mcxross/ksui) ⭐ 18 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-07 - [Documentation](https://suicookbook.com) - [Further Information](details/sdk_ksui.md)
 * SuiKit (OpenDive) - Swift SDK natively designed to make developing for the Sui Blockchain easy.
   * [GitHub](https://github.com/opendive/suikit?tab=readme-ov-file) ⭐ 22 | 🐛 19 | 🌐 Swift | 📅 2025-12-11 - [Further Information](details/sdk_suikit.md)
 * Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
@@ -104,7 +104,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/) ⭐ 360 | 🐛 25 | 🌐 TypeScript | 📅 2026-06-03.
   * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/wallet-standard) ⭐ 98 | 🐛 41 | 🌐 TypeScript | 📅 2026-08-14 - [Documentation](https://docs.sui.io/standards/wallet-standard)
 * [Sui Client Gen (Kuna Labs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) ⭐ 104 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-14 - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
-* [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) ⭐ 53 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13 - Generate TypeScript bindings for Sui contracts.
+* [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15 - Generate TypeScript bindings for Sui contracts.
 * [BCS Rust](https://github.com/zefchain/bcs) ⭐ 35 | 🐛 5 | 🌐 Rust | 📅 2026-04-25 - BCS with Rust.
 * [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) ⭐ 22 | 🐛 19 | 🌐 Swift | 📅 2025-12-11 - BCS with Swift.
 * [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) ⭐ 22 | 🐛 14 | 🌐 C# | 📅 2025-11-12 - BCS with Unity C#.
@@ -221,7 +221,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Local Sui Explorer - Sui Explorer for your localnet maintained by [suiware](https://github.com/suiware)
   * [GitHub](https://github.com/suiware/sui-explorer) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-17 - [Further Information](details/explorer_local_sui_explorer.md)
 * Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
-  * [GitHub](https://github.com/bartosian/suimon) ⭐ 71 | 🐛 0 | 🌐 Go | 📅 2024-10-16 - [Further Information](details/explorer_suimon.md)
+  * [GitHub](https://github.com/bartosian/suimon) ⭐ 71 | 🐛 1 | 🌐 Go | 📅 2024-10-16 - [Further Information](details/explorer_suimon.md)
 
 ## Oracles
 
@@ -245,7 +245,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 * [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,059 | 🐛 233 | 🌐 TypeScript | 📅 2026-08-15 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,064 | 🐛 242 | 🌐 TypeScript | 📅 2026-08-16 - Autonomous agents for everyone.
 
 ## Infrastructure as Code
 
@@ -265,4 +265,4 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
