@@ -52,7 +52,7 @@
                 "last_commit": "2026-08-15T18:23:02Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7735
+                "stars": 7737
               }
             }
           ]
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7737
           }
         },
         {
@@ -130,7 +130,7 @@
             "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7737
           }
         },
         {
@@ -192,7 +192,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T18:13:43Z",
+                "last_commit": "2026-08-17T07:18:37Z",
                 "owner": "MystenLabs",
                 "repo": "ts-sdks",
                 "stars": 98
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-15T18:23:02Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7735
+                "stars": 7737
               }
             }
           ]
@@ -339,7 +339,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Kotlin",
-                "last_commit": "2026-08-07T14:52:03Z",
+                "last_commit": "2026-08-17T08:15:54Z",
                 "owner": "mcxross",
                 "repo": "ksui",
                 "stars": 18
@@ -539,7 +539,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T18:13:43Z",
+                "last_commit": "2026-08-17T07:18:37Z",
                 "owner": "MystenLabs",
                 "repo": "ts-sdks",
                 "stars": 98
@@ -577,7 +577,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:50:52Z",
+            "last_commit": "2026-08-17T08:06:52Z",
             "owner": "sentioxyz",
             "repo": "typemove",
             "stars": 52
@@ -796,7 +796,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T18:13:43Z",
+                "last_commit": "2026-08-17T07:18:37Z",
                 "owner": "MystenLabs",
                 "repo": "ts-sdks",
                 "stars": 98
@@ -1057,7 +1057,7 @@
             "last_commit": "2026-08-15T18:23:02Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7735
+            "stars": 7737
           }
         },
         {
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:37:01.822Z",
+    "last_updated": "2026-08-17T10:44:39.869Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
     "enhanced_repository": "enhansome/enhansome-sui",
