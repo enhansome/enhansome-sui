@@ -49,7 +49,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T10:03:20Z",
+                    "last_commit": "2026-08-21T10:14:54Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7739
@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-20T10:03:20Z",
+                "last_commit": "2026-08-21T10:14:54Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7739
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-20T10:03:20Z",
+                "last_commit": "2026-08-21T10:14:54Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7739
@@ -202,7 +202,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T09:02:27Z",
+                    "last_commit": "2026-08-21T09:46:34Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -246,7 +246,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T10:03:20Z",
+                    "last_commit": "2026-08-21T10:14:54Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7739
@@ -268,7 +268,7 @@
                     "archived": false,
                     "id": 532577189,
                     "language": "Python",
-                    "last_commit": "2026-08-18T09:38:05Z",
+                    "last_commit": "2026-08-21T08:57:41Z",
                     "owner": "FrankC01",
                     "repo": "pysui",
                     "stars": 212
@@ -506,7 +506,7 @@
                 "archived": false,
                 "id": 609605599,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T14:32:57Z",
+                "last_commit": "2026-08-21T05:06:25Z",
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
                 "stars": 28
@@ -521,7 +521,7 @@
                 "archived": false,
                 "id": 677780695,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T22:57:35Z",
+                "last_commit": "2026-08-21T06:37:49Z",
                 "owner": "Bucket-Protocol",
                 "repo": "bucket-protocol-sdk",
                 "stars": 21
@@ -563,7 +563,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T09:02:27Z",
+                    "last_commit": "2026-08-21T09:46:34Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -839,7 +839,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T09:02:27Z",
+                    "last_commit": "2026-08-21T09:46:34Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -952,7 +952,7 @@
                     "last_commit": "2025-10-04T18:03:42Z",
                     "owner": "denyskozak",
                     "repo": "react-sui-zk-login-kit",
-                    "stars": 37
+                    "stars": 35
                   }
                 }
               ]
@@ -1114,7 +1114,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-20T10:03:20Z",
+                "last_commit": "2026-08-21T10:14:54Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7739
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:41:57.509Z",
+    "last_updated": "2026-08-21T10:40:55.358Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_id": 846102821,
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
