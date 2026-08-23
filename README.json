@@ -49,10 +49,10 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T06:20:19Z",
+                    "last_commit": "2026-08-23T01:13:49Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7739
+                    "stars": 7738
                   }
                 }
               ]
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-22T06:20:19Z",
+                "last_commit": "2026-08-23T01:13:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
+                "stars": 7738
               }
             },
             {
@@ -132,10 +132,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-22T06:20:19Z",
+                "last_commit": "2026-08-23T01:13:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
+                "stars": 7738
               }
             },
             {
@@ -246,10 +246,10 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-22T06:20:19Z",
+                    "last_commit": "2026-08-23T01:13:49Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7739
+                    "stars": 7738
                   }
                 }
               ]
@@ -506,7 +506,7 @@
                 "archived": false,
                 "id": 609605599,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T04:34:16Z",
+                "last_commit": "2026-08-22T18:27:20Z",
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
                 "stars": 28
@@ -1114,10 +1114,10 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-22T06:20:19Z",
+                "last_commit": "2026-08-23T01:13:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7739
+                "stars": 7738
               }
             },
             {
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:35:21.162Z",
+    "last_updated": "2026-08-23T10:35:08.321Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_id": 846102821,
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",

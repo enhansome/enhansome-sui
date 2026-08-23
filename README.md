@@ -45,7 +45,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Emacs move-mode](https://github.com/amnn/move-mode) ⭐ 19 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-24 - The move-mode package is an Emacs major-mode for editing smart contracts written in the Move programming language.
 * [Move.vim](https://github.com/yanganto/move.vim) ⭐ 6 | 🐛 0 | 🌐 Vim Script | 📅 2025-01-09 - Syntax highlighting that supports the Move 2024 edition.
 * VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,739 | 🐛 823 | 🌐 Rust | 📅 2026-08-22 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,738 | 🐛 823 | 🌐 Rust | 📅 2026-08-23 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 * VSCode Sui Move Analyzer by MoveBit - Alternative VSCode extension developed by MoveBit.
   * [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) ⭐ 40 | 🐛 4 | 🌐 Rust | 📅 2026-02-25 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 * IntelliJ Sui Move Language Plugin - IntelliJ-based plugin for Move on Sui development.
@@ -53,8 +53,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### IDE Utilities
 
-* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,739 | 🐛 823 | 🌐 Rust | 📅 2026-08-22 - A Move language plugin for the Prettier code formatter.
-* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,739 | 🐛 823 | 🌐 Rust | 📅 2026-08-22 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
+* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,738 | 🐛 823 | 🌐 Rust | 📅 2026-08-23 - A Move language plugin for the Prettier code formatter.
+* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,738 | 🐛 823 | 🌐 Rust | 📅 2026-08-23 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
 * [Sui Extension](https://github.com/zktx-io/sui-extension) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-19 - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   * [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 * ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
@@ -69,7 +69,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   * [GitHub](https://github.com/scallop-io/sui-kit) ⭐ 188 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-28 - [Further Information](details/sdk_sui_kit_scallop.md)
 * Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,739 | 🐛 823 | 🌐 Rust | 📅 2026-08-22 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,738 | 🐛 823 | 🌐 Rust | 📅 2026-08-23 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
 * Pysui - Python SDK to interact with Sui Blockchain.
   * [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) ⭐ 212 | 🐛 2 | 🌐 Python | 📅 2026-08-21 - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
 * Sui Go SDK (SuiVision) - Golang SDK to interact with Sui Blockchain.
@@ -166,7 +166,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### Smart Contract Toolkits
 
-* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,739 | 🐛 823 | 🌐 Rust | 📅 2026-08-22 - Examples of Move on Sui applications.
+* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,738 | 🐛 823 | 🌐 Rust | 📅 2026-08-23 - Examples of Move on Sui applications.
 * [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - For building, and managing Dapps built on Dubhe Engine in Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 * [Cetus CLMM](https://github.com/CetusProtocol/cetus-contracts/tree/main/packages/cetus_clmm) ⭐ 29 | 🐛 1 | 🌐 Move | 📅 2026-07-09 - The Cetus CLMM DEX open-source code.
@@ -245,7 +245,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 * [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,124 | 🐛 560 | 🌐 TypeScript | 📅 2026-08-22 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,136 | 🐛 633 | 🌐 TypeScript | 📅 2026-08-23 - Autonomous agents for everyone.
 
 ## Infrastructure as Code
 
@@ -265,4 +265,4 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
