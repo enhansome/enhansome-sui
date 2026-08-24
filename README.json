@@ -202,7 +202,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T23:35:15Z",
+                    "last_commit": "2026-08-24T14:28:20Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -227,7 +227,7 @@
                     "last_commit": "2026-07-28T11:43:03Z",
                     "owner": "scallop-io",
                     "repo": "sui-kit",
-                    "stars": 188
+                    "stars": 187
                   }
                 }
               ]
@@ -563,7 +563,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T23:35:15Z",
+                    "last_commit": "2026-08-24T14:28:20Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -839,7 +839,7 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T23:35:15Z",
+                    "last_commit": "2026-08-24T14:28:20Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:49:06.738Z",
+    "last_updated": "2026-08-24T14:33:48.674Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_id": 846102821,
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
