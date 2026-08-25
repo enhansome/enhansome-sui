@@ -42,14 +42,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "MystenLabs/sui",
                   "description": "Documentation & Tutorial - Further Information",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T08:33:56Z",
+                    "last_commit": "2026-08-25T03:51:12Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7737
@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-24T08:33:56Z",
+                "last_commit": "2026-08-25T03:51:12Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-24T08:33:56Z",
+                "last_commit": "2026-08-25T03:51:12Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -195,14 +195,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "MystenLabs/ts-sdks",
                   "description": "Documentation - Further Information",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:28:20Z",
+                    "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -217,7 +217,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "scallop-io/sui-kit",
                   "description": "Further Information",
                   "children": [],
                   "repo_info": {
@@ -239,14 +239,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "MystenLabs/sui",
                   "description": "Documentation - Further Information",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T08:33:56Z",
+                    "last_commit": "2026-08-25T03:51:12Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7737
@@ -261,7 +261,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "FrankC01/pysui",
                   "description": "Documentation - Pypi - Discord - Further Information",
                   "children": [],
                   "repo_info": {
@@ -283,7 +283,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "blockvisionhq/sui-go-sdk",
                   "description": "API Documentation - Examples - Further Information",
                   "children": [],
                   "repo_info": {
@@ -305,7 +305,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "pattonkan/sui-go",
                   "description": "API Documentation - Examples - Further Information",
                   "children": [],
                   "repo_info": {
@@ -327,7 +327,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "mofalabs/sui",
                   "description": "API documentation - Further Information",
                   "children": [],
                   "repo_info": {
@@ -349,7 +349,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "mcxross/ksui",
                   "description": "Documentation - Further Information",
                   "children": [],
                   "repo_info": {
@@ -371,7 +371,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "OpenDive/SuiKit",
                   "description": "Further Information",
                   "children": [],
                   "repo_info": {
@@ -393,7 +393,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "OpenDive/Sui-Unity-SDK",
                   "description": "Further Information",
                   "children": [],
                   "repo_info": {
@@ -415,7 +415,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "0xobelisk/dubhe",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
@@ -556,14 +556,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "MystenLabs/ts-sdks",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:28:20Z",
+                    "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -707,7 +707,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "mcxross/kotlinx-serialization-bcs",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
@@ -832,14 +832,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "MystenLabs/ts-sdks",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:28:20Z",
+                    "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 98
@@ -854,7 +854,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "suiware/sui-dapp-starter",
                   "description": "Documentation - Demo app",
                   "children": [],
                   "repo_info": {
@@ -876,7 +876,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "suiet/wallet-kit",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
@@ -898,7 +898,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "ChainMovers/suibase",
                   "description": "Documentation",
                   "children": [],
                   "repo_info": {
@@ -942,7 +942,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "GitHub",
+                  "title": "denyskozak/react-sui-zk-login-kit",
                   "description": "YouTube Guide",
                   "children": [],
                   "repo_info": {
@@ -1078,7 +1078,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "GitHub",
+                      "title": "juzybits/polymedia-rpcs",
                       "description": "Documentation",
                       "children": [],
                       "repo_info": {
@@ -1114,7 +1114,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-24T08:33:56Z",
+                "last_commit": "2026-08-25T03:51:12Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1281,7 +1281,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "0xobelisk/dubhe",
               "description": "API Documentation",
               "children": [],
               "repo_info": {
@@ -1331,7 +1331,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "zktx-io/polymedia-explorer-ptb-builder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1353,7 +1353,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "suiware/sui-explorer",
               "description": "Further Information",
               "children": [],
               "repo_info": {
@@ -1375,7 +1375,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "bartosian/suimon",
               "description": "Further Information",
               "children": [],
               "repo_info": {
@@ -1484,7 +1484,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "bartosian/sui-terraform-modules",
               "description": "Further Information",
               "children": [],
               "repo_info": {
@@ -1527,7 +1527,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "suiware/SuiwareFaucetBot",
               "description": "Telegram Bot",
               "children": [],
               "repo_info": {
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:48.674Z",
+    "last_updated": "2026-08-25T06:27:08.128Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_id": 846102821,
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
