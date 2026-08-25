@@ -49,7 +49,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T03:51:12Z",
+                    "last_commit": "2026-08-25T10:09:05Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7737
@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T10:09:05Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T10:09:05Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -205,7 +205,7 @@
                     "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 98
+                    "stars": 97
                   }
                 }
               ]
@@ -246,7 +246,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T03:51:12Z",
+                    "last_commit": "2026-08-25T10:09:05Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7737
@@ -425,7 +425,7 @@
                     "last_commit": "2026-08-05T14:34:42Z",
                     "owner": "0xobelisk",
                     "repo": "dubhe",
-                    "stars": 74
+                    "stars": 73
                   }
                 }
               ]
@@ -566,7 +566,7 @@
                     "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 98
+                    "stars": 97
                   }
                 }
               ],
@@ -747,7 +747,7 @@
                 "last_commit": "2026-08-05T14:34:42Z",
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -842,7 +842,7 @@
                     "last_commit": "2026-08-24T16:59:13Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 98
+                    "stars": 97
                   }
                 }
               ]
@@ -952,7 +952,7 @@
                     "last_commit": "2025-10-04T18:03:42Z",
                     "owner": "denyskozak",
                     "repo": "react-sui-zk-login-kit",
-                    "stars": 35
+                    "stars": 27
                   }
                 }
               ]
@@ -1114,7 +1114,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:51:12Z",
+                "last_commit": "2026-08-25T10:09:05Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7737
@@ -1132,7 +1132,7 @@
                 "last_commit": "2026-08-05T14:34:42Z",
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -1291,7 +1291,7 @@
                 "last_commit": "2026-08-05T14:34:42Z",
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 74
+                "stars": 73
               }
             }
           ]
@@ -1474,7 +1474,7 @@
             "last_commit": "2026-08-05T14:34:42Z",
             "owner": "0xobelisk",
             "repo": "dubhe",
-            "stars": 74
+            "stars": 73
           }
         },
         {
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:08.128Z",
+    "last_updated": "2026-08-25T10:44:41.033Z",
     "original_repository": "sui-foundation/awesome-sui",
     "original_repository_id": 846102821,
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
