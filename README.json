@@ -49,7 +49,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T05:39:58Z",
+                    "last_commit": "2026-08-27T20:09:00Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7738
@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T05:39:58Z",
+                "last_commit": "2026-08-27T20:09:00Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -132,7 +132,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T05:39:58Z",
+                "last_commit": "2026-08-27T20:09:00Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -246,7 +246,7 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T05:39:58Z",
+                    "last_commit": "2026-08-27T20:09:00Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7738
@@ -1114,7 +1114,7 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T05:39:58Z",
+                "last_commit": "2026-08-27T20:09:00Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7738
@@ -1547,7 +1547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:43.660Z",
+    "last_updated": "2026-08-27T20:20:34.705Z",
     "original_repository_info": {
       "archived": false,
       "id": 846102821,
