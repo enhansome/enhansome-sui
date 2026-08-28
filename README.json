@@ -18,7 +18,8 @@
                 "owner": "amnn",
                 "repo": "move-mode",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "yanganto",
                 "repo": "move.vim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "group",
@@ -49,11 +51,12 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:09:00Z",
+                    "last_commit": "2026-08-28T20:55:49Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7738
-                  }
+                    "stars": 7740
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -75,7 +78,8 @@
                     "owner": "movebit",
                     "repo": "sui-move-analyzer",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -97,7 +101,8 @@
                     "owner": "hoh-zone",
                     "repo": "intellij-move",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             }
@@ -117,11 +122,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:09:00Z",
+                "last_commit": "2026-08-28T20:55:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7738
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -132,11 +138,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:09:00Z",
+                "last_commit": "2026-08-28T20:55:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7738
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -151,7 +158,8 @@
                 "owner": "zktx-io",
                 "repo": "sui-extension",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "group",
@@ -171,7 +179,8 @@
                     "owner": "Weminal-labs",
                     "repo": "sui-simulator-vscode",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             }
@@ -202,11 +211,12 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T05:31:34Z",
+                    "last_commit": "2026-08-28T19:42:16Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -228,7 +238,8 @@
                     "owner": "scallop-io",
                     "repo": "sui-kit",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -246,11 +257,12 @@
                     "archived": false,
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T20:09:00Z",
+                    "last_commit": "2026-08-28T20:55:49Z",
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7738
-                  }
+                    "stars": 7740
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -272,7 +284,8 @@
                     "owner": "FrankC01",
                     "repo": "pysui",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -294,7 +307,8 @@
                     "owner": "blockvisionhq",
                     "repo": "sui-go-sdk",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -316,7 +330,8 @@
                     "owner": "pattonkan",
                     "repo": "sui-go",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -338,7 +353,8 @@
                     "owner": "mofalabs",
                     "repo": "sui",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -360,7 +376,8 @@
                     "owner": "mcxross",
                     "repo": "ksui",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -382,7 +399,8 @@
                     "owner": "OpenDive",
                     "repo": "SuiKit",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -404,7 +422,8 @@
                     "owner": "OpenDive",
                     "repo": "Sui-Unity-SDK",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -426,7 +445,8 @@
                     "owner": "0xobelisk",
                     "repo": "dubhe",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             }
@@ -450,7 +470,8 @@
                 "owner": "CetusProtocol",
                 "repo": "cetus-clmm-sui-sdk",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -461,11 +482,12 @@
                 "archived": false,
                 "id": 623735377,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:09:02Z",
+                "last_commit": "2026-08-28T05:02:47Z",
                 "owner": "scallop-io",
                 "repo": "sui-scallop-sdk",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -480,7 +502,8 @@
                 "owner": "naviprotocol",
                 "repo": "navi-sdk",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -495,7 +518,8 @@
                 "owner": "7k-ag",
                 "repo": "7k-sdk-ts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -506,11 +530,12 @@
                 "archived": false,
                 "id": 609605599,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T21:49:09Z",
+                "last_commit": "2026-08-28T03:26:07Z",
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -525,7 +550,8 @@
                 "owner": "Bucket-Protocol",
                 "repo": "bucket-protocol-sdk",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -540,7 +566,8 @@
                 "owner": "FlowX-Finance",
                 "repo": "sdk",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ],
           "description": null,
@@ -563,11 +590,12 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T05:31:34Z",
+                    "last_commit": "2026-08-28T19:42:16Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ],
               "repo_info": {
@@ -577,8 +605,9 @@
                 "last_commit": "2026-06-03T21:03:39Z",
                 "owner": "wallet-standard",
                 "repo": "wallet-standard",
-                "stars": 361
-              }
+                "stars": 362
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -593,7 +622,8 @@
                 "owner": "kunalabs-io",
                 "repo": "sui-client-gen",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -604,11 +634,12 @@
                 "archived": false,
                 "id": 659743930,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:32:55Z",
+                "last_commit": "2026-08-28T09:05:02Z",
                 "owner": "sentioxyz",
                 "repo": "typemove",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -623,7 +654,8 @@
                 "owner": "zefchain",
                 "repo": "bcs",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -638,7 +670,8 @@
                 "owner": "OpenDive",
                 "repo": "SuiKit",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -653,7 +686,8 @@
                 "owner": "OpenDive",
                 "repo": "Sui-Unity-SDK",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -668,7 +702,8 @@
                 "owner": "juzybits",
                 "repo": "polymedia-coinmeta",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -683,7 +718,8 @@
                 "owner": "mofalabs",
                 "repo": "bcs",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -698,7 +734,8 @@
                 "owner": "0xobelisk",
                 "repo": "dubhe-docs",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "group",
@@ -718,7 +755,8 @@
                     "owner": "mcxross",
                     "repo": "kotlinx-serialization-bcs",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             }
@@ -748,7 +786,8 @@
                 "owner": "0xobelisk",
                 "repo": "dubhe",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -763,7 +802,8 @@
                 "owner": "MystenLabs",
                 "repo": "sui-gas-pool",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -778,7 +818,8 @@
                 "owner": "Bucket-Protocol",
                 "repo": "sui-dapp-scaffold-v1",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -793,7 +834,8 @@
                 "owner": "juzybits",
                 "repo": "polymedia-suitcase",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -808,7 +850,8 @@
                 "owner": "pixelbrawlgames",
                 "repo": "use-sui-zklogin",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -823,7 +866,8 @@
                 "owner": "zktx-io",
                 "repo": "wormhole-kit-monorepo",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "group",
@@ -839,11 +883,12 @@
                     "archived": false,
                     "id": 905880354,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T05:31:34Z",
+                    "last_commit": "2026-08-28T19:42:16Z",
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -865,7 +910,8 @@
                     "owner": "suiware",
                     "repo": "sui-dapp-starter",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -887,7 +933,8 @@
                     "owner": "suiet",
                     "repo": "wallet-kit",
                     "stars": 207
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -909,7 +956,8 @@
                     "owner": "ChainMovers",
                     "repo": "suibase",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -931,7 +979,8 @@
                     "owner": "suiware",
                     "repo": "kit",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -953,7 +1002,8 @@
                     "owner": "denyskozak",
                     "repo": "react-sui-zk-login-kit",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ]
             },
@@ -972,7 +1022,8 @@
                     "owner": "jovicheng",
                     "repo": "sui-zklogin-demo",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1038,8 @@
                     "owner": "juzybits",
                     "repo": "polymedia-zklogin-demo",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "item",
@@ -1002,7 +1054,8 @@
                     "owner": "ronanyeah",
                     "repo": "sui-zk-wallet",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ],
               "description": null,
@@ -1024,7 +1077,8 @@
                     "owner": "juzybits",
                     "repo": "polymedia-zui",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "item",
@@ -1039,7 +1093,8 @@
                     "owner": "MystenLabs",
                     "repo": "yubigen",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "item",
@@ -1054,7 +1109,8 @@
                     "owner": "MystenLabs",
                     "repo": "minting-server",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "item",
@@ -1069,7 +1125,8 @@
                     "owner": "SuiSec",
                     "repo": "sui-rpc-proxy",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 },
                 {
                   "node_type": "group",
@@ -1089,7 +1146,8 @@
                         "owner": "juzybits",
                         "repo": "polymedia-rpcs",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-28T21:10:25.039Z"
                     }
                   ]
                 }
@@ -1114,11 +1172,12 @@
                 "archived": false,
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:09:00Z",
+                "last_commit": "2026-08-28T20:55:49Z",
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7738
-              }
+                "stars": 7740
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1192,8 @@
                 "owner": "0xobelisk",
                 "repo": "dubhe",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1208,8 @@
                 "owner": "CetusProtocol",
                 "repo": "cetus-contracts",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1224,8 @@
                 "owner": "CetusProtocol",
                 "repo": "integer-mate",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1178,7 +1240,8 @@
                 "owner": "sui-potatoes",
                 "repo": "app",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1193,7 +1256,8 @@
                 "owner": "CetusProtocol",
                 "repo": "move-stl",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1208,7 +1272,8 @@
                 "owner": "suidouble",
                 "repo": "suidouble_metadata",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1293,8 @@
                     "owner": "otter-sec",
                     "repo": "sui-token-gen",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ],
               "repo_info": {
@@ -1239,7 +1305,8 @@
                 "owner": "otter-sec",
                 "repo": "sui-token-gen-rpc",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ],
           "description": null,
@@ -1270,7 +1337,8 @@
                 "owner": "sentioxyz",
                 "repo": "sentio-processors",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         },
@@ -1292,7 +1360,8 @@
                 "owner": "0xobelisk",
                 "repo": "dubhe",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         }
@@ -1320,7 +1389,8 @@
                 "owner": "juzybits",
                 "repo": "polymedia-explorer",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         },
@@ -1342,7 +1412,8 @@
                 "owner": "zktx-io",
                 "repo": "polymedia-explorer-ptb-builder",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         },
@@ -1364,7 +1435,8 @@
                 "owner": "suiware",
                 "repo": "sui-explorer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         },
@@ -1386,7 +1458,8 @@
                 "owner": "bartosian",
                 "repo": "suimon",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         }
@@ -1409,7 +1482,8 @@
             "owner": "suiet",
             "repo": "guardians",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1498,8 @@
             "owner": "SuiSec",
             "repo": "HoneyPotDetectionOnSui",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1514,8 @@
             "owner": "SuiSec",
             "repo": "SuiSecBlockList",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         },
         {
           "node_type": "item",
@@ -1454,7 +1530,8 @@
             "owner": "SuiSec",
             "repo": "DryRunTransactionBlockResponsePlus",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         }
       ],
       "title": "Security"
@@ -1475,7 +1552,8 @@
             "owner": "0xobelisk",
             "repo": "dubhe",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         },
         {
           "node_type": "group",
@@ -1495,7 +1573,8 @@
                 "owner": "bartosian",
                 "repo": "sui-terraform-modules",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         }
@@ -1518,7 +1597,8 @@
             "owner": "suiware",
             "repo": "suiware-faucet-extension",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:10:25.039Z"
         },
         {
           "node_type": "group",
@@ -1538,7 +1618,8 @@
                 "owner": "suiware",
                 "repo": "SuiwareFaucetBot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:10:25.039Z"
             }
           ]
         }
@@ -1547,7 +1628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:20:34.705Z",
+    "last_updated": "2026-08-28T21:10:25.039Z",
     "original_repository_info": {
       "archived": false,
       "id": 846102821,
