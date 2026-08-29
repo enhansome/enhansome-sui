@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emacs major mode for Move smart contract programming language.",
+                "homepage": null,
                 "id": 544933078,
                 "language": "Emacs Lisp",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-24T11:56:37Z",
+                "open_issues": 4,
                 "owner": "amnn",
                 "repo": "move-mode",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "syntax highlighting and indentation in Vim for the Move smart contract language",
+                "homepage": null,
                 "id": 878258778,
                 "language": "Vim Script",
+                "license": null,
                 "last_commit": "2025-01-09T09:27:24Z",
+                "open_issues": 0,
                 "owner": "yanganto",
                 "repo": "move.vim",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -49,12 +59,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                    "homepage": "https://sui.io",
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-28T20:55:49Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:43:13Z",
+                    "open_issues": 824,
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7740
+                    "stars": 7740,
+                    "topics": [
+                      "blockchain",
+                      "distributed-ledger-technology",
+                      "move",
+                      "smart-contracts"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -72,12 +92,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 790569994,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2026-02-25T02:08:31Z",
+                    "open_issues": 4,
                     "owner": "movebit",
                     "repo": "sui-move-analyzer",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -95,12 +120,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Support for Move On Sui",
+                    "homepage": "https://plugins.jetbrains.com/plugin/23301-sui-move-language",
                     "id": 721496651,
                     "language": "Kotlin",
+                    "license": "MIT",
                     "last_commit": "2025-08-23T10:53:26Z",
+                    "open_issues": 10,
                     "owner": "hoh-zone",
                     "repo": "intellij-move",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -120,12 +150,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:55:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -136,12 +176,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:55:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -152,12 +202,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui Extension brings Sui Move build/test/deploy/upgrade into VS Code (and Codespaces) with zkLogin wallets for Devnet/Testnet, object/package explorers, and a visual PTB Builder. Comes with 30+ Move/PTB templates and workshops; just install the Sui CLI and use a Google account for zkLogin.",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension",
                 "id": 839108071,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-19T08:50:41Z",
+                "open_issues": 0,
                 "owner": "zktx-io",
                 "repo": "sui-extension",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "blockchain",
+                  "move",
+                  "sui",
+                  "sui-move",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -173,12 +235,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source project for sui developers",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=weminal-labs.sui-simulator-vscode",
                     "id": 774996204,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-06-23T04:27:04Z",
+                    "open_issues": 3,
                     "owner": "Weminal-labs",
                     "repo": "sui-simulator-vscode",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "sui",
+                      "sui-simulate"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -209,12 +279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sdk.mystenlabs.com/",
                     "id": 905880354,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-08-28T19:42:16Z",
+                    "open_issues": 37,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -232,12 +307,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Toolkit for interacting with SUI network in typescript",
+                    "homepage": null,
                     "id": 621609510,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-28T11:43:03Z",
+                    "open_issues": 2,
                     "owner": "scallop-io",
                     "repo": "sui-kit",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": [
+                      "sui",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -255,12 +338,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                    "homepage": "https://sui.io",
                     "id": 426075845,
                     "language": "Rust",
-                    "last_commit": "2026-08-28T20:55:49Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:43:13Z",
+                    "open_issues": 824,
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7740
+                    "stars": 7740,
+                    "topics": [
+                      "blockchain",
+                      "distributed-ledger-technology",
+                      "move",
+                      "smart-contracts"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -278,12 +371,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SUI Python Client SDK",
+                    "homepage": null,
                     "id": 532577189,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T11:02:57Z",
+                    "open_issues": 2,
                     "owner": "FrankC01",
                     "repo": "pysui",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": [
+                      "blockchain",
+                      "client-sdk",
+                      "python",
+                      "sdk-python",
+                      "sui"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -301,12 +405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Go language SDK for @MystenLabs Sui",
+                    "homepage": null,
                     "id": 533140600,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-12T02:50:08Z",
+                    "open_issues": 15,
                     "owner": "blockvisionhq",
                     "repo": "sui-go-sdk",
-                    "stars": 198
+                    "stars": 198,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -324,12 +433,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sui Golang SDK",
+                    "homepage": "https://pkg.go.dev/github.com/pattonkan/sui-go",
                     "id": 789857693,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-11T08:50:10Z",
+                    "open_issues": 14,
                     "owner": "pattonkan",
                     "repo": "sui-go",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -347,12 +461,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform Sui SDK for Mobile, Web and Desktop",
+                    "homepage": null,
                     "id": 559430084,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T17:39:00Z",
+                    "open_issues": 0,
                     "owner": "mofalabs",
                     "repo": "sui",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -370,12 +489,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multiplatform SDK for Sui",
+                    "homepage": "https://suicookbook.com",
                     "id": 611172630,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-18T09:02:55Z",
+                    "open_issues": 3,
                     "owner": "mcxross",
                     "repo": "ksui",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "crpyto",
+                      "kotlin",
+                      "rpc",
+                      "sdk",
+                      "sui"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -393,12 +523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Swift SDK for developing on Sui",
+                    "homepage": null,
                     "id": 631719579,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2025-12-11T14:52:50Z",
+                    "open_issues": 19,
                     "owner": "OpenDive",
                     "repo": "SuiKit",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -416,12 +551,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fully featured implementation of the Sui SDK for developing Unity games",
+                    "homepage": null,
                     "id": 680235622,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-11-12T08:32:44Z",
+                    "open_issues": 14,
                     "owner": "OpenDive",
                     "repo": "Sui-Unity-SDK",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -439,12 +579,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dubhe Engine is a Open-source, high-performance engine for real-time Fully On-Chain Move apps. ",
+                    "homepage": "https://dubhe.obelisk.build/",
                     "id": 651651010,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-05T14:34:42Z",
+                    "open_issues": 10,
                     "owner": "0xobelisk",
                     "repo": "dubhe",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "javascript",
+                      "move",
+                      "rust",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -464,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The clmm sdk on Sui.",
+                "homepage": null,
                 "id": 610696958,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-28T10:23:10Z",
+                "open_issues": 8,
                 "owner": "CetusProtocol",
                 "repo": "cetus-clmm-sui-sdk",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -480,12 +635,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the typescript sdk for the scallop lending platform on SUI network",
+                "homepage": null,
                 "id": 623735377,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:02:47Z",
+                "open_issues": 1,
                 "owner": "scallop-io",
                 "repo": "sui-scallop-sdk",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "sui",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -496,12 +659,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NAVI SDK Project for Sui Defi Ecosystem",
+                "homepage": "https://naviprotocol.io/",
                 "id": 775257800,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-04T09:57:19Z",
+                "open_issues": 7,
                 "owner": "naviprotocol",
                 "repo": "navi-sdk",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "defi",
+                  "smart-contracts",
+                  "sui",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -512,12 +685,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 824038892,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-21T08:54:04Z",
+                "open_issues": 5,
                 "owner": "7k-ag",
                 "repo": "7k-sdk-ts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -528,12 +706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aftermath Typescript SDK",
+                "homepage": null,
                 "id": 609605599,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-28T03:26:07Z",
+                "open_issues": 6,
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -544,12 +727,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bucket Protocol TypeScript SDK",
+                "homepage": "https://docs.bucketprotocol.io/",
                 "id": 677780695,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T06:37:49Z",
+                "open_issues": 4,
                 "owner": "Bucket-Protocol",
                 "repo": "bucket-protocol-sdk",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blockchain",
+                  "bucket-protocol",
+                  "sdk",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -560,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 816684484,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-01-29T07:07:44Z",
+                "open_issues": 4,
                 "owner": "FlowX-Finance",
                 "repo": "sdk",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -588,24 +786,45 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sdk.mystenlabs.com/",
                     "id": 905880354,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-08-28T19:42:16Z",
+                    "open_issues": 37,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://wallet-standard.github.io/wallet-standard/",
                 "id": 517823063,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-03T21:03:39Z",
+                "open_issues": 25,
                 "owner": "wallet-standard",
                 "repo": "wallet-standard",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "blockchain",
+                  "crypto",
+                  "cryptocurrency",
+                  "hacktoberfest",
+                  "hacktoberfest2022",
+                  "react",
+                  "solana",
+                  "standards",
+                  "typescript",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -616,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for generating TS SDKs for Sui Move smart contracts.",
+                "homepage": null,
                 "id": 624630236,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:54:51Z",
+                "open_issues": 3,
                 "owner": "kunalabs-io",
                 "repo": "sui-client-gen",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -632,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate TypeScript bindings for Move contracts",
+                "homepage": null,
                 "id": 659743930,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:05:02Z",
+                "open_issues": 2,
                 "owner": "sentioxyz",
                 "repo": "typemove",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -648,12 +877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust implementation of the Binary Canonical Serialization (BCS) format",
+                "homepage": null,
                 "id": 546392875,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-25T01:57:57Z",
+                "open_issues": 5,
                 "owner": "zefchain",
                 "repo": "bcs",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -664,12 +898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift SDK for developing on Sui",
+                "homepage": null,
                 "id": 631719579,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-12-11T14:52:50Z",
+                "open_issues": 19,
                 "owner": "OpenDive",
                 "repo": "SuiKit",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -680,12 +919,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully featured implementation of the Sui SDK for developing Unity games",
+                "homepage": null,
                 "id": 680235622,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-11-12T08:32:44Z",
+                "open_issues": 14,
                 "owner": "OpenDive",
                 "repo": "Sui-Unity-SDK",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -696,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoinMetadata for Sui coins, and web-optimized logos.",
+                "homepage": "https://coinmeta.polymedia.app",
                 "id": 784319306,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-23T19:21:57Z",
+                "open_issues": 5,
                 "owner": "juzybits",
                 "repo": "polymedia-coinmeta",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -712,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Binary Canonical Serialization (BCS) in Dart",
+                "homepage": null,
                 "id": 560316913,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2026-07-13T10:01:08Z",
+                "open_issues": 0,
                 "owner": "mofalabs",
                 "repo": "bcs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -728,12 +982,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://dubhe-docs.vercel.app",
                 "id": 896770491,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2025-08-11T16:23:59Z",
+                "open_issues": 4,
                 "owner": "0xobelisk",
                 "repo": "dubhe-docs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -749,12 +1008,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Kotlin Multiplatform implementation of the Binary Canonical Serialization (BCS) format",
+                    "homepage": null,
                     "id": 700823190,
                     "language": "Kotlin",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-11T12:28:16Z",
+                    "open_issues": 0,
                     "owner": "mcxross",
                     "repo": "kotlinx-serialization-bcs",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "aptos",
+                      "bcs",
+                      "crypto",
+                      "rust",
+                      "sui"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -780,12 +1050,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dubhe Engine is a Open-source, high-performance engine for real-time Fully On-Chain Move apps. ",
+                "homepage": "https://dubhe.obelisk.build/",
                 "id": 651651010,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T14:34:42Z",
+                "open_issues": 10,
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "javascript",
+                  "move",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -796,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 725834582,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T17:48:39Z",
+                "open_issues": 2,
                 "owner": "MystenLabs",
                 "repo": "sui-gas-pool",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -812,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 796222528,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-10T22:43:22Z",
+                "open_issues": 5,
                 "owner": "Bucket-Protocol",
                 "repo": "sui-dapp-scaffold-v1",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -828,12 +1118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui utilities for TypeScript, Node, and React.",
+                "homepage": null,
                 "id": 744216424,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-05T13:46:35Z",
+                "open_issues": 0,
                 "owner": "juzybits",
                 "repo": "polymedia-suitcase",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -844,12 +1139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React hook for seamless zkLogin integration on Sui. Simplifies authentication workflows by managing account retrieval, signature generation, and address resolution with zero-knowledge proofs.",
+                "homepage": "https://pixelbrawlgames.github.io/use-sui-zklogin",
                 "id": 905090568,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-05T06:24:11Z",
+                "open_issues": 0,
                 "owner": "pixelbrawlgames",
                 "repo": "use-sui-zklogin",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -860,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "@zktx.io/wormhole-kit and @zktx.io/wormhole-kit-core are a React library that enables instant integration of Wormhole into your dApp.",
+                "homepage": "https://docs.zktx.io",
                 "id": 792184631,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-09-29T08:10:42Z",
+                "open_issues": 0,
                 "owner": "zktx-io",
                 "repo": "wormhole-kit-monorepo",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -881,12 +1186,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sdk.mystenlabs.com/",
                     "id": 905880354,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-08-28T19:42:16Z",
+                    "open_issues": 37,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
-                    "stars": 97
+                    "stars": 97,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -904,12 +1214,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy-to-Use Full-Stack Sui Starter",
+                    "homepage": "https://sui-dapp-starter.dev",
                     "id": 794883099,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-23T20:40:43Z",
+                    "open_issues": 5,
                     "owner": "suiware",
                     "repo": "sui-dapp-starter",
-                    "stars": 67
+                    "stars": 67,
+                    "topics": [
+                      "blockcahin",
+                      "boilerplate",
+                      "starter",
+                      "starter-template",
+                      "sui",
+                      "sui-blockchain",
+                      "sui-boilerplate",
+                      "sui-dapp",
+                      "sui-dapp-starter",
+                      "suiware"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -927,12 +1253,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The first choice to connect all wallets on Sui blockchain",
+                    "homepage": "https://kit.suiet.app",
                     "id": 536223005,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-03T23:09:14Z",
+                    "open_issues": 40,
                     "owner": "suiet",
                     "repo": "wallet-kit",
-                    "stars": 207
+                    "stars": 207,
+                    "topics": [
+                      "sui",
+                      "wallet",
+                      "wallet-adapter",
+                      "wallet-kit"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -950,12 +1286,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easier Sui and Walrus CLI Tools",
+                    "homepage": "https://suibase.io",
                     "id": 605877473,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-07T20:18:44Z",
+                    "open_issues": 15,
                     "owner": "ChainMovers",
                     "repo": "suibase",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "blockchain",
+                      "move",
+                      "sui"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -973,12 +1318,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Opinionated React components and hooks for Sui dApps",
+                    "homepage": "https://kit.suiware.io",
                     "id": 905170366,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-23T20:41:41Z",
+                    "open_issues": 0,
                     "owner": "suiware",
                     "repo": "kit",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": [
+                      "component-library",
+                      "dapp-kit",
+                      "react",
+                      "sui",
+                      "sui-dapp-kit",
+                      "suiware",
+                      "suiware-kit"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -996,12 +1354,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "React Kit for seamless ZK Login integration for Sui",
+                    "homepage": null,
                     "id": 905893397,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2025-10-04T18:03:42Z",
+                    "open_issues": 0,
                     "owner": "denyskozak",
                     "repo": "react-sui-zk-login-kit",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "react",
+                      "sui",
+                      "zk",
+                      "zk-login"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -1016,12 +1384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sui-zklogin.vercel.app/",
                     "id": 720083133,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2024-12-15T10:58:29Z",
+                    "open_issues": 2,
                     "owner": "jovicheng",
                     "repo": "sui-zklogin-demo",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1032,12 +1405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sui zkLogin demo implementation.",
+                    "homepage": "https://zklogin-demo.polymedia.app",
                     "id": 704261219,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-11T13:41:06Z",
+                    "open_issues": 0,
                     "owner": "juzybits",
                     "repo": "polymedia-zklogin-demo",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1048,12 +1426,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://sui-zk-wallet.netlify.app/",
                     "id": 696542748,
                     "language": "Elm",
+                    "license": null,
                     "last_commit": "2024-05-31T01:19:00Z",
+                    "open_issues": 1,
                     "owner": "ronanyeah",
                     "repo": "sui-zk-wallet",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
@@ -1071,12 +1454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sui command line tools",
+                    "homepage": "https://www.npmjs.com/package/@polymedia/zui",
                     "id": 733770100,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-14T18:09:30Z",
+                    "open_issues": 0,
                     "owner": "juzybits",
                     "repo": "polymedia-zui",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1087,12 +1475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generate a Sui Address with Yubikey and Sign",
+                    "homepage": null,
                     "id": 748359141,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2026-01-16T00:51:28Z",
+                    "open_issues": 0,
                     "owner": "MystenLabs",
                     "repo": "yubigen",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1103,12 +1496,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A scalable system architecture that can process multiple Sui transactions in parallel using a producer-consumer worker scheme.",
+                    "homepage": null,
                     "id": 787844564,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-14T14:46:59Z",
+                    "open_issues": 2,
                     "owner": "MystenLabs",
                     "repo": "minting-server",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": [
+                      "bullmq",
+                      "concurrency",
+                      "move",
+                      "sui"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1119,12 +1522,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 805307180,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2024-07-28T09:33:42Z",
+                    "open_issues": 0,
                     "owner": "SuiSec",
                     "repo": "sui-rpc-proxy",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 },
@@ -1140,12 +1548,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A webapp that lets users find the fastest RPC for their location.",
+                        "homepage": null,
                         "id": 808024526,
                         "language": "TypeScript",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-02-25T12:54:21Z",
+                        "open_issues": 0,
                         "owner": "juzybits",
                         "repo": "polymedia-rpcs",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T21:10:25.039Z"
                     }
@@ -1170,12 +1583,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+                "homepage": "https://sui.io",
                 "id": 426075845,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:55:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:43:13Z",
+                "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7740
+                "stars": 7740,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "move",
+                  "smart-contracts"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1186,12 +1609,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dubhe Engine is a Open-source, high-performance engine for real-time Fully On-Chain Move apps. ",
+                "homepage": "https://dubhe.obelisk.build/",
                 "id": 651651010,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T14:34:42Z",
+                "open_issues": 10,
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "javascript",
+                  "move",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1202,12 +1635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1055558000,
                 "language": "Move",
+                "license": null,
                 "last_commit": "2026-07-09T03:34:58Z",
+                "open_issues": 1,
                 "owner": "CetusProtocol",
                 "repo": "cetus-contracts",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1218,12 +1656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Libary of move module provides signed integer and some integer math functions.",
+                "homepage": null,
                 "id": 564594028,
                 "language": "Move",
+                "license": "MIT",
                 "last_commit": "2026-01-22T09:16:28Z",
+                "open_issues": 0,
                 "owner": "CetusProtocol",
                 "repo": "integer-mate",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1234,12 +1677,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Potatoes monorepo: contains all public packages as well as the main application, available at",
+                "homepage": "https://potatoes.app",
                 "id": 800081084,
                 "language": "Move",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:08:30Z",
+                "open_issues": 2,
                 "owner": "sui-potatoes",
                 "repo": "app",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "gaming",
+                  "libraries",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1250,12 +1702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MoveSTL is a data structure and algorithm library for move language",
+                "homepage": null,
                 "id": 614267233,
                 "language": "Move",
+                "license": "MIT",
                 "last_commit": "2025-10-16T07:35:11Z",
+                "open_issues": 1,
                 "owner": "CetusProtocol",
                 "repo": "move-stl",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1266,12 +1723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Move library and a set of tools to store/retrieve/manage any type of data inside u8 vector",
+                "homepage": null,
                 "id": 801767805,
                 "language": "Move",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-11-24T20:05:36Z",
+                "open_issues": 0,
                 "owner": "suidouble",
                 "repo": "suidouble_metadata",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             },
@@ -1287,24 +1749,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 895323805,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2025-04-30T08:17:57Z",
+                    "open_issues": 0,
                     "owner": "otter-sec",
                     "repo": "sui-token-gen",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:10:25.039Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 905583228,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-30T08:18:05Z",
+                "open_issues": 0,
                 "owner": "otter-sec",
                 "repo": "sui-token-gen-rpc",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1331,12 +1803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 512213097,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-30T12:55:59Z",
+                "open_issues": 3,
                 "owner": "sentioxyz",
                 "repo": "sentio-processors",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1354,12 +1831,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dubhe Engine is a Open-source, high-performance engine for real-time Fully On-Chain Move apps. ",
+                "homepage": "https://dubhe.obelisk.build/",
                 "id": 651651010,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-05T14:34:42Z",
+                "open_issues": 10,
                 "owner": "0xobelisk",
                 "repo": "dubhe",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "javascript",
+                  "move",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1383,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore Sui transactions, objects, etc.",
+                "homepage": "https://explorer.polymedia.app",
                 "id": 813020762,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-07-09T18:57:04Z",
+                "open_issues": 0,
                 "owner": "juzybits",
                 "repo": "polymedia-explorer",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1406,12 +1898,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explore Sui transactions, objects, etc.",
+                "homepage": "https://explorer.walrus.site/",
                 "id": 911944655,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-04-29T04:28:16Z",
+                "open_issues": 0,
                 "owner": "zktx-io",
                 "repo": "polymedia-explorer-ptb-builder",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1429,12 +1926,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local Sui Explorer",
+                "homepage": "http://localhost:9001",
                 "id": 797617787,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-17T11:27:12Z",
+                "open_issues": 0,
                 "owner": "suiware",
                 "repo": "sui-explorer",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cli",
+                  "localnet",
+                  "sui",
+                  "sui-explorer",
+                  "sui-explorer-local",
+                  "suiware"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1452,12 +1961,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Suimon is a powerful command line tool designed to provide detailed dashboards for monitoring the SUI network.",
+                "homepage": null,
                 "id": 570205949,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-10-16T23:27:33Z",
+                "open_issues": 1,
                 "owner": "bartosian",
                 "repo": "suimon",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "cli",
+                  "monitoring",
+                  "sui"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1476,12 +1994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protect your wallet from phishing",
+            "homepage": null,
             "id": 633029650,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-01T01:46:47Z",
+            "open_issues": 3,
             "owner": "suiet",
             "repo": "guardians",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         },
@@ -1492,12 +2015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.npmjs.com/package/suihoneypot",
             "id": 865117747,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-19T03:17:26Z",
+            "open_issues": 0,
             "owner": "SuiSec",
             "repo": "HoneyPotDetectionOnSui",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         },
@@ -1508,12 +2036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.npmjs.com/package/suisecblocklist",
             "id": 810109825,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-22T07:01:15Z",
+            "open_issues": 0,
             "owner": "SuiSec",
             "repo": "SuiSecBlockList",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         },
@@ -1524,12 +2057,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redesign DryRunTransactionBlockResponse interface, highlight SenderChange.",
+            "homepage": "https://www.npmjs.com/package/dryruntransactionblockresponseplus",
             "id": 805305082,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-07-28T10:25:02Z",
+            "open_issues": 0,
             "owner": "SuiSec",
             "repo": "DryRunTransactionBlockResponsePlus",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         }
@@ -1546,12 +2084,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dubhe Engine is a Open-source, high-performance engine for real-time Fully On-Chain Move apps. ",
+            "homepage": "https://dubhe.obelisk.build/",
             "id": 651651010,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-05T14:34:42Z",
+            "open_issues": 10,
             "owner": "0xobelisk",
             "repo": "dubhe",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "javascript",
+              "move",
+              "rust",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         },
@@ -1567,12 +2115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.",
+                "homepage": null,
                 "id": 753640871,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-13T15:57:45Z",
+                "open_issues": 0,
                 "owner": "bartosian",
                 "repo": "sui-terraform-modules",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1591,12 +2144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sui Faucet Chrome Extension",
+            "homepage": null,
             "id": 904715930,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-23T12:42:49Z",
+            "open_issues": 2,
             "owner": "suiware",
             "repo": "suiware-faucet-extension",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:25.039Z"
         },
@@ -1612,12 +2170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sui Faucet Telegram Bot",
+                "homepage": "https://t.me/SuiwareFaucetBot",
                 "id": 903772939,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-13T08:07:06Z",
+                "open_issues": 0,
                 "owner": "suiware",
                 "repo": "SuiwareFaucetBot",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "deno",
+                  "faucet",
+                  "grammy",
+                  "sui",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
             }
@@ -1628,15 +2197,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:25.039Z",
+    "last_updated": "2026-08-29T04:49:07.883Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Move code and resources. ",
+      "homepage": null,
       "id": 846102821,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-01-09T19:09:38Z",
+      "open_issues": 36,
       "owner": "sui-foundation",
       "repo": "awesome-sui",
-      "stars": 215
+      "stars": 215,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "move",
+        "sui"
+      ]
     },
     "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
     "enhanced_repository": "enhansome/enhansome-sui",
