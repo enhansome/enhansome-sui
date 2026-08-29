@@ -43,7 +43,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Desktop IDEs
 
 * [Emacs move-mode](https://github.com/amnn/move-mode) ⭐ 19 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-24 - The move-mode package is an Emacs major-mode for editing smart contracts written in the Move programming language.
-* [Move.vim](https://github.com/yanganto/move.vim) ⭐ 6 | 🐛 0 | 🌐 Vim Script | 📅 2025-01-09 - Syntax highlighting that supports the Move 2024 edition.
+* [Move.vim](https://github.com/yanganto/move.vim) ⭐ 5 | 🐛 0 | 🌐 Vim Script | 📅 2025-01-09 - Syntax highlighting that supports the Move 2024 edition.
 * VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
   * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,740 | 🐛 824 | 🌐 Rust | 📅 2026-08-29 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 * VSCode Sui Move Analyzer by MoveBit - Alternative VSCode extension developed by MoveBit.
@@ -245,7 +245,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
 * [Atoma](https://atoma.network/) - Developer-focused infrastructure for private, verifiable, and fully customized AI experiences.
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,201 | 🐛 1,386 | 🌐 TypeScript | 📅 2026-08-29 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,206 | 🐛 1,378 | 🌐 TypeScript | 📅 2026-08-29 - Autonomous agents for everyone.
 
 ## Infrastructure as Code
 

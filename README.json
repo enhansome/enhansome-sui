@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "yanganto",
                 "repo": "move.vim",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
@@ -64,7 +64,7 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T03:43:13Z",
+                    "last_commit": "2026-08-29T14:18:51Z",
                     "open_issues": 824,
                     "owner": "MystenLabs",
                     "repo": "sui",
@@ -155,7 +155,7 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:43:13Z",
+                "last_commit": "2026-08-29T14:18:51Z",
                 "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
@@ -181,7 +181,7 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:43:13Z",
+                "last_commit": "2026-08-29T14:18:51Z",
                 "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
@@ -343,7 +343,7 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T03:43:13Z",
+                    "last_commit": "2026-08-29T14:18:51Z",
                     "open_issues": 824,
                     "owner": "MystenLabs",
                     "repo": "sui",
@@ -1588,7 +1588,7 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:43:13Z",
+                "last_commit": "2026-08-29T14:18:51Z",
                 "open_issues": 824,
                 "owner": "MystenLabs",
                 "repo": "sui",
@@ -2197,7 +2197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:07.883Z",
+    "last_updated": "2026-08-29T15:01:12.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Move code and resources. ",
@@ -2209,7 +2209,7 @@
       "open_issues": 36,
       "owner": "sui-foundation",
       "repo": "awesome-sui",
-      "stars": 215,
+      "stars": 214,
       "topics": [
         "awesome",
         "awesome-list",
