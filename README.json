@@ -64,11 +64,11 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T14:20:26Z",
-                    "open_issues": 825,
+                    "last_commit": "2026-09-11T13:58:05Z",
+                    "open_issues": 841,
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7744,
+                    "stars": 7745,
                     "topics": [
                       "blockchain",
                       "distributed-ledger-technology",
@@ -155,11 +155,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:20:26Z",
-                "open_issues": 825,
+                "last_commit": "2026-09-11T13:58:05Z",
+                "open_issues": 841,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -181,11 +181,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:20:26Z",
-                "open_issues": 825,
+                "last_commit": "2026-09-11T13:58:05Z",
+                "open_issues": 841,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -284,7 +284,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-09-10T01:20:29Z",
+                    "last_commit": "2026-09-10T22:59:36Z",
                     "open_issues": 40,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -343,11 +343,11 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T14:20:26Z",
-                    "open_issues": 825,
+                    "last_commit": "2026-09-11T13:58:05Z",
+                    "open_issues": 841,
                     "owner": "MystenLabs",
                     "repo": "sui",
-                    "stars": 7744,
+                    "stars": 7745,
                     "topics": [
                       "blockchain",
                       "distributed-ledger-technology",
@@ -376,8 +376,8 @@
                     "id": 532577189,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T13:58:02Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-11T13:49:54Z",
+                    "open_issues": 2,
                     "owner": "FrankC01",
                     "repo": "pysui",
                     "stars": 212,
@@ -711,7 +711,7 @@
                 "id": 609605599,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-09T20:48:46Z",
+                "last_commit": "2026-09-10T21:21:52Z",
                 "open_issues": 9,
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
@@ -791,7 +791,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-09-10T01:20:29Z",
+                    "last_commit": "2026-09-10T22:59:36Z",
                     "open_issues": 40,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -861,7 +861,7 @@
                 "id": 659743930,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T00:30:59Z",
+                "last_commit": "2026-09-10T22:14:11Z",
                 "open_issues": 2,
                 "owner": "sentioxyz",
                 "repo": "typemove",
@@ -932,6 +932,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Sui APIs (Mysten Labs)",
+              "description": "Public Sui gRPC interface definitions for generating client libraries, documentation, and other artifacts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1009106389,
+                "language": "Makefile",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-10T14:43:40Z",
+                "open_issues": 3,
+                "owner": "MystenLabs",
+                "repo": "sui-apis",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-09-11T14:21:08.760Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1212,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-09-10T01:20:29Z",
+                    "last_commit": "2026-09-10T22:59:36Z",
                     "open_issues": 40,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -1588,11 +1609,11 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:20:26Z",
-                "open_issues": 825,
+                "last_commit": "2026-09-11T13:58:05Z",
+                "open_issues": 841,
                 "owner": "MystenLabs",
                 "repo": "sui",
-                "stars": 7744,
+                "stars": 7745,
                 "topics": [
                   "blockchain",
                   "distributed-ledger-technology",
@@ -1601,6 +1622,27 @@
                 ]
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
+            },
+            {
+              "node_type": "item",
+              "title": "suiup (Mysten Labs)",
+              "description": "Installer and version manager for command-line tools in the Sui ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Installer & version manager for Sui toolchain",
+                "homepage": null,
+                "id": 856467034,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-01T22:12:53Z",
+                "open_issues": 5,
+                "owner": "MystenLabs",
+                "repo": "suiup",
+                "stars": 80,
+                "topics": []
+              },
+              "first_seen": "2026-09-11T14:21:08.760Z"
             },
             {
               "node_type": "item",
@@ -1812,7 +1854,7 @@
                 "open_issues": 3,
                 "owner": "sentioxyz",
                 "repo": "sentio-processors",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:10:25.039Z"
@@ -2079,6 +2121,70 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Eliza",
+          "description": "Autonomous agents for everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source agentic operating system",
+            "homepage": "https://elizaresearch.ai/",
+            "id": 826170402,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-11T14:09:11Z",
+            "open_issues": 1328,
+            "owner": "elizaOS",
+            "repo": "eliza",
+            "stars": 19326,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "autonomous",
+              "chatbot",
+              "crypto",
+              "discord",
+              "eliza",
+              "elizaos",
+              "framework",
+              "plugins",
+              "rag",
+              "slack",
+              "swarm",
+              "telegram"
+            ]
+          },
+          "first_seen": "2026-09-11T14:21:08.760Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Mysten Labs Agent Skills",
+          "description": "Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sui development skills maintained by Mysten Labs",
+            "homepage": null,
+            "id": 1181205997,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-07T06:52:22Z",
+            "open_issues": 5,
+            "owner": "MystenLabs",
+            "repo": "skills",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-09-11T14:21:08.760Z"
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Dubhe Engine (Obelisk Labs)",
           "description": "Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.",
           "children": [],
@@ -2197,7 +2303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:21:01.109Z",
+    "last_updated": "2026-09-11T14:21:08.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Move code and resources. ",
@@ -2205,7 +2311,7 @@
       "id": 846102821,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-01-09T19:09:38Z",
+      "last_commit": "2026-09-10T17:48:28Z",
       "open_issues": 35,
       "owner": "sui-foundation",
       "repo": "awesome-sui",
@@ -2217,7 +2323,7 @@
         "sui"
       ]
     },
-    "original_repository_sha": "f1303c3deb4d47ae87387849060f8e634dfb79be",
+    "original_repository_sha": "e38cd099810d6e9e9faf1f5cf3c4d72ea478dd4e",
     "enhanced_repository": "enhansome/enhansome-sui",
     "enhanced_repository_description": null,
     "title": "Awesome Sui with stars"
