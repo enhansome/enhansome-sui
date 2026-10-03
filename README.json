@@ -64,8 +64,8 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T15:14:28Z",
-                    "open_issues": 876,
+                    "last_commit": "2026-10-03T04:09:03Z",
+                    "open_issues": 874,
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7760,
@@ -116,7 +116,7 @@
                 {
                   "node_type": "item",
                   "title": "Homepage",
-                  "description": "GitHub",
+                  "description": "hoh-zone/intellij-move",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -155,8 +155,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:14:28Z",
-                "open_issues": 876,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -181,8 +181,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:14:28Z",
-                "open_issues": 876,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -284,7 +284,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-10-01T22:13:39Z",
+                    "last_commit": "2026-10-03T01:26:37Z",
                     "open_issues": 43,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -343,8 +343,8 @@
                     "id": 426075845,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T15:14:28Z",
-                    "open_issues": 876,
+                    "last_commit": "2026-10-03T04:09:03Z",
+                    "open_issues": 874,
                     "owner": "MystenLabs",
                     "repo": "sui",
                     "stars": 7760,
@@ -575,7 +575,7 @@
                 {
                   "node_type": "item",
                   "title": "0xobelisk/dubhe",
-                  "description": "Documentation",
+                  "description": "0xobelisk/dubhe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -690,8 +690,8 @@
                 "id": 609605599,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T17:44:51Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-03T02:06:14Z",
+                "open_issues": 9,
                 "owner": "AftermathFinance",
                 "repo": "aftermath-ts-sdk",
                 "stars": 29,
@@ -777,12 +777,12 @@
             {
               "node_type": "item",
               "title": "Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the Wallet Standard",
-              "description": ".",
+              "description": "wallet-standard/wallet-standard",
               "children": [
                 {
                   "node_type": "item",
                   "title": "MystenLabs/ts-sdks",
-                  "description": "Documentation",
+                  "description": "MystenLabs/ts-sdks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -791,7 +791,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-10-01T22:13:39Z",
+                    "last_commit": "2026-10-03T01:26:37Z",
                     "open_issues": 43,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -861,7 +861,7 @@
                 "id": 659743930,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T16:37:05Z",
+                "last_commit": "2026-10-03T02:54:55Z",
                 "open_issues": 2,
                 "owner": "sentioxyz",
                 "repo": "typemove",
@@ -1025,7 +1025,7 @@
                 {
                   "node_type": "item",
                   "title": "mcxross/kotlinx-serialization-bcs",
-                  "description": "Documentation",
+                  "description": "mcxross/kotlinx-serialization-bcs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1203,7 +1203,7 @@
                 {
                   "node_type": "item",
                   "title": "MystenLabs/ts-sdks",
-                  "description": "Documentation",
+                  "description": "MystenLabs/ts-sdks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1212,7 +1212,7 @@
                     "id": 905880354,
                     "language": "TypeScript",
                     "license": null,
-                    "last_commit": "2026-10-01T22:13:39Z",
+                    "last_commit": "2026-10-03T01:26:37Z",
                     "open_issues": 43,
                     "owner": "MystenLabs",
                     "repo": "ts-sdks",
@@ -1270,7 +1270,7 @@
                 {
                   "node_type": "item",
                   "title": "suiet/wallet-kit",
-                  "description": "Documentation",
+                  "description": "suiet/wallet-kit",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1303,7 +1303,7 @@
                 {
                   "node_type": "item",
                   "title": "ChainMovers/suibase",
-                  "description": "Documentation",
+                  "description": "ChainMovers/suibase",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1401,7 +1401,7 @@
                 {
                   "node_type": "item",
                   "title": "Sui zkLogin Demo by @jovicheng",
-                  "description": null,
+                  "description": "jovicheng/sui-zklogin-demo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1422,7 +1422,7 @@
                 {
                   "node_type": "item",
                   "title": "zkLogin Demo (Polymedia)",
-                  "description": null,
+                  "description": "juzybits/polymedia-zklogin-demo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1443,7 +1443,7 @@
                 {
                   "node_type": "item",
                   "title": "Sui zkWallet Demo by @ronanyeah",
-                  "description": null,
+                  "description": "ronanyeah/sui-zk-wallet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1565,7 +1565,7 @@
                     {
                       "node_type": "item",
                       "title": "juzybits/polymedia-rpcs",
-                      "description": "Documentation",
+                      "description": "juzybits/polymedia-rpcs",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1609,8 +1609,8 @@
                 "id": 426075845,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T15:14:28Z",
-                "open_issues": 876,
+                "last_commit": "2026-10-03T04:09:03Z",
+                "open_issues": 874,
                 "owner": "MystenLabs",
                 "repo": "sui",
                 "stars": 7760,
@@ -1936,7 +1936,7 @@
             {
               "node_type": "item",
               "title": "zktx-io/polymedia-explorer-ptb-builder",
-              "description": null,
+              "description": "zktx-io/polymedia-explorer-ptb-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2131,11 +2131,11 @@
             "id": 826170402,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:08:45Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-03T00:37:03Z",
+            "open_issues": 117,
             "owner": "elizaOS",
             "repo": "eliza",
-            "stars": 19532,
+            "stars": 19535,
             "topics": [
               "agent",
               "agentic",
@@ -2168,8 +2168,8 @@
             "id": 1181205997,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:01:48Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-02T20:49:08Z",
+            "open_issues": 4,
             "owner": "MystenLabs",
             "repo": "skills",
             "stars": 19,
@@ -2303,7 +2303,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:14:08.129Z",
+    "last_updated": "2026-10-03T05:10:45.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Move code and resources. ",
