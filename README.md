@@ -85,12 +85,12 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   * [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) ⭐ 22 | 🐛 14 | 🌐 C# | 📅 2025-11-12 - [Further Information](details/sdk_sui_unity_opendive.md)
 * Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
-  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [Documentation](https://dubhe-docs.obelisk.build/)
+  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [Documentation](https://dubhe-docs.obelisk.build/)
 
 ### DeFi SDKs
 
 * [Cetus CLMM SDK](https://github.com/CetusProtocol/cetus-clmm-sui-sdk) ⭐ 68 | 🐛 8 | 🌐 TypeScript | 📅 2025-02-28 - The official Cetus SDK specifically designed for seamless integration with Cetus-CLMM on Sui.
-* [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) ⭐ 56 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09 - The TypeScript SDK for interacting with the Scallop lending protocol on the Sui network.
+* [Scallop SDK](https://github.com/scallop-io/sui-scallop-sdk) ⭐ 56 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-18 - The TypeScript SDK for interacting with the Scallop lending protocol on the Sui network.
 * [NAVI Protocol SDK](https://github.com/naviprotocol/navi-sdk) ⭐ 47 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-04 - The NAVI TypeScript SDK Client provides tools for interacting with the Sui Blockchain networks, designed for handling transactions, accounts, and smart contracts efficiently.
 * [Aftermath SDK](https://github.com/AftermathFinance/aftermath-ts-sdk) ⭐ 29 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-15 - The TypeScript SDK for interacting with Aftermath Protocol.
 * [7k Aggregator SDK](https://github.com/7k-ag/7k-sdk-ts) ⚠️ Archived - The TypeScript SDK for interacting with 7k Aggregator protocol.
@@ -120,7 +120,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### dApp Toolkits
 
-* [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Create a new Dubhe project on Sui.
+* [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Create a new Dubhe project on Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start)
 * [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) ⭐ 40 | 🐛 2 | 🌐 Rust | 📅 2026-09-08 - Service that powers sponsored transactions on Sui at scale.
 * [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) ⭐ 29 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-08 - A frontend scaffold for a decentralized application (dApp) on the Sui Blockchain.
@@ -169,11 +169,11 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 * [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,778 | 🐛 857 | 🌐 Rust | 📅 2026-10-17 - Examples of Move on Sui applications.
 * [suiup (Mysten Labs)](https://github.com/MystenLabs/suiup) ⭐ 80 | 🐛 5 | 🌐 Rust | 📅 2026-10-04 - Installer and version manager for command-line tools in the Sui ecosystem.
-* [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - For building, and managing Dapps built on Dubhe Engine in Sui.
+* [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - For building, and managing Dapps built on Dubhe Engine in Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 * [Cetus CLMM](https://github.com/CetusProtocol/cetus-contracts/tree/main/packages/cetus_clmm) ⭐ 30 | 🐛 0 | 🌐 Move | 📅 2026-09-18 - The Cetus CLMM DEX open-source code.
 * [IntegerMate (Cetus)](https://github.com/CetusProtocol/integer-mate) ⭐ 20 | 🐛 0 | 🌐 Move | 📅 2026-01-22 - A Library of move module provides signed integer and some integer math functions.
-* [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) ⭐ 13 | 🐛 2 | 🌐 Move | 📅 2026-10-17 - Ultimate encoding solution for Sui.
+* [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) ⭐ 13 | 🐛 2 | 🌐 Move | 📅 2026-10-18 - Ultimate encoding solution for Sui.
 * [SkipList (Cetus)](https://github.com/CetusProtocol/move-stl) ⭐ 13 | 🐛 1 | 🌐 Move | 📅 2025-10-16 - A skip link list implement by Move language in Sui.
 * [SuiDouble Metadata](https://github.com/suidouble/suidouble_metadata) ⭐ 11 | 🐛 0 | 🌐 Move | 📅 2024-11-24 - A Sui Move library and a set of tools to store, retrieve, and manage any type of primitive data as chunks in a `vector<u8>`. Store any data in the `vector<u8>` without dependencies and without any `Struct` defined.
 * [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-04-30 - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
@@ -204,7 +204,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   * [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 * Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
-  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
+  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 * Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   * [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
 
@@ -244,7 +244,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,612 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-17 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,619 | 🐛 132 | 🌐 TypeScript | 📅 2026-10-18 - Autonomous agents for everyone.
 * [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
@@ -252,7 +252,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## Infrastructure as Code
 
-* [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
+* [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
   * [Documentation](https://dubhe.obelisk.build/) - [Further Information](details/engine_dubhe.md)
 * Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   * [GitHub](https://github.com/bartosian/sui-terraform-modules) ⭐ 4 | 🐛 0 | 🌐 HCL | 📅 2024-11-13 - [Further Information](details/iac_sui_terraform_modules.md)
@@ -268,4 +268,4 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
