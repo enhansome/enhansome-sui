@@ -45,7 +45,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Emacs move-mode](https://github.com/amnn/move-mode) ⭐ 19 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-24 - The move-mode package is an Emacs major-mode for editing smart contracts written in the Move programming language.
 * [Move.vim](https://github.com/yanganto/move.vim) ⭐ 5 | 🐛 0 | 🌐 Vim Script | 📅 2025-01-09 - Syntax highlighting that supports the Move 2024 edition.
 * VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,781 | 🐛 857 | 🌐 Rust | 📅 2026-10-19 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,784 | 🐛 842 | 🌐 Rust | 📅 2026-10-20 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 * VSCode Sui Move Analyzer by MoveBit - Alternative VSCode extension developed by MoveBit.
   * [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) ⭐ 40 | 🐛 4 | 🌐 Rust | 📅 2026-02-25 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 * IntelliJ Sui Move Language Plugin - IntelliJ-based plugin for Move on Sui development.
@@ -53,8 +53,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### IDE Utilities
 
-* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,781 | 🐛 857 | 🌐 Rust | 📅 2026-10-19 - A Move language plugin for the Prettier code formatter.
-* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,781 | 🐛 857 | 🌐 Rust | 📅 2026-10-19 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
+* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,784 | 🐛 842 | 🌐 Rust | 📅 2026-10-20 - A Move language plugin for the Prettier code formatter.
+* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,784 | 🐛 842 | 🌐 Rust | 📅 2026-10-20 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
 * [Sui Extension](https://github.com/zktx-io/sui-extension) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-19 - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   * [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 * ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
@@ -69,7 +69,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   * [GitHub](https://github.com/scallop-io/sui-kit) ⭐ 187 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-28 - [Further Information](details/sdk_sui_kit_scallop.md)
 * Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,781 | 🐛 857 | 🌐 Rust | 📅 2026-10-19 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,784 | 🐛 842 | 🌐 Rust | 📅 2026-10-20 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
 * Pysui - Python SDK to interact with Sui Blockchain.
   * [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) ⭐ 211 | 🐛 5 | 🌐 Python | 📅 2026-09-15 - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
 * Sui Go SDK (SuiVision) - Golang SDK to interact with Sui Blockchain.
@@ -131,7 +131,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui dApp Kit (Mysten Labs) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
   * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/dapp-kit) ⭐ 98 | 🐛 64 | 🌐 TypeScript | 📅 2026-10-19 - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 * Sui dApp Starter - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
-  * [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) ⭐ 67 | 🐛 5 | 🌐 TypeScript | 📅 2026-02-23 - [Documentation](https://sui-dapp-starter.dev/docs/) - [Demo app](https://demo.sui-dapp-starter.dev/)
+  * [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) ⚠️ Archived - [Documentation](https://sui-dapp-starter.dev/docs/) - [Demo app](https://demo.sui-dapp-starter.dev/)
 * Suiet Wallet Kit - React toolkit for aApps to interact with all wallet types in Sui easily.
   * [GitHub](https://github.com/suiet/wallet-kit) ⚠️ Archived - [Documentation](https://kit.suiet.app/docs/QuickStart)
 * [Sui MultiSig Toolkit (Mysten Labs)](https://multisig-toolkit.vercel.app/offline-signer) - Toolkit for transaction signing.
@@ -140,7 +140,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Sui Tools](https://sui-tools.vercel.app/ptb-generator) - Scaffolding TypeScript PTBs for any on-chain function you might want to invoke.
 * [Enoki (Mysten Labs)](https://docs.enoki.mystenlabs.com/) - Make zkLogin and Sponsored Transactions more accessible.
 * @suiware/kit - Opinionated React components and hooks for Sui dApps.
-  * [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23 - [GitHub](https://github.com/suiware/kit) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-23
+  * [Homepage](https://kit.suiware.io/) - [Documentation](https://github.com/suiware/kit/tree/main/packages/kit#readme) ⚠️ Archived - [GitHub](https://github.com/suiware/kit) ⚠️ Archived
 * React ZK Login Kit - Ready-to-use Component with Hook (sign-in + sign-transaction)
   * [GitHub](https://github.com/denyskozak/react-sui-zk-login-kit) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-26 - [YouTube Guide](https://www.youtube.com/watch?v=2qnjmKg3ugY)
 
@@ -167,13 +167,13 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### Smart Contract Toolkits
 
-* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,781 | 🐛 857 | 🌐 Rust | 📅 2026-10-19 - Examples of Move on Sui applications.
+* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,784 | 🐛 842 | 🌐 Rust | 📅 2026-10-20 - Examples of Move on Sui applications.
 * [suiup (Mysten Labs)](https://github.com/MystenLabs/suiup) ⭐ 80 | 🐛 5 | 🌐 Rust | 📅 2026-10-04 - Installer and version manager for command-line tools in the Sui ecosystem.
 * [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - For building, and managing Dapps built on Dubhe Engine in Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
-* [Cetus CLMM](https://github.com/CetusProtocol/cetus-contracts/tree/main/packages/cetus_clmm) ⭐ 30 | 🐛 1 | 🌐 Move | 📅 2026-10-19 - The Cetus CLMM DEX open-source code.
+* [Cetus CLMM](https://github.com/CetusProtocol/cetus-contracts/tree/main/packages/cetus_clmm) ⭐ 30 | 🐛 0 | 🌐 Move | 📅 2026-10-20 - The Cetus CLMM DEX open-source code.
 * [IntegerMate (Cetus)](https://github.com/CetusProtocol/integer-mate) ⭐ 20 | 🐛 0 | 🌐 Move | 📅 2026-01-22 - A Library of move module provides signed integer and some integer math functions.
-* [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) ⭐ 13 | 🐛 2 | 🌐 Move | 📅 2026-10-18 - Ultimate encoding solution for Sui.
+* [Sui Codec](https://github.com/sui-potatoes/app/tree/main/packages/codec) ⭐ 13 | 🐛 3 | 🌐 Move | 📅 2026-10-18 - Ultimate encoding solution for Sui.
 * [SkipList (Cetus)](https://github.com/CetusProtocol/move-stl) ⭐ 13 | 🐛 1 | 🌐 Move | 📅 2025-10-16 - A skip link list implement by Move language in Sui.
 * [SuiDouble Metadata](https://github.com/suidouble/suidouble_metadata) ⭐ 11 | 🐛 0 | 🌐 Move | 📅 2024-11-24 - A Sui Move library and a set of tools to store, retrieve, and manage any type of primitive data as chunks in a `vector<u8>`. Store any data in the `vector<u8>` without dependencies and without any `Struct` defined.
 * [Sui Token CLI RPC](https://github.com/otter-sec/sui-token-gen-rpc) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-04-30 - A Rust-based RPC service for generating and verifying Sui token smart contracts effortlessly.
@@ -221,7 +221,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * PTB Explorer - A fork of the Polymedia Explorer.
   * [GitHub](https://github.com/zktx-io/polymedia-explorer-ptb-builder) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-29
 * Local Sui Explorer - Sui Explorer for your localnet maintained by [suiware](https://github.com/suiware)
-  * [GitHub](https://github.com/suiware/sui-explorer) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-17 - [Further Information](details/explorer_local_sui_explorer.md)
+  * [GitHub](https://github.com/suiware/sui-explorer) ⚠️ Archived - [Further Information](details/explorer_local_sui_explorer.md)
 * Suimon - Powerful command line tool designed to provide detailed dashboards for monitoring the Sui network.
   * [GitHub](https://github.com/bartosian/suimon) ⭐ 72 | 🐛 1 | 🌐 Go | 📅 2024-10-16 - [Further Information](details/explorer_suimon.md)
 
@@ -244,7 +244,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,626 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-19 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,629 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-20 - Autonomous agents for everyone.
 * [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15 - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
@@ -259,13 +259,13 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## Faucets
 
-* [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) ⭐ 3 | 🐛 2 | 🌐 HTML | 📅 2025-02-23 - An experimental Chrome extension for receiving devnet and testnet SUI.
+* [Suiware Faucet Chrome Extension](https://github.com/suiware/suiware-faucet-extension) ⚠️ Archived - An experimental Chrome extension for receiving devnet and testnet SUI.
 * [Sui Faucet](https://faucet.sui.io/) - Official web faucet for claiming testnet SUI, with wallet integration.
 * [n1stake](https://faucet.n1stake.com/) - Community web faucet for claiming testnet SUI, with wallet integration.
 * [Blockbolt](https://faucet.blockbolt.io/) - Community web faucet for claiming testnet SUI, with wallet integration.
 * SuiwareFaucetBot - Sui Faucet Bot for Telegram.
-  * [GitHub](https://github.com/suiware/SuiwareFaucetBot) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-10-13 - [Telegram Bot](https://t.me/SuiwareFaucetBot)
+  * [GitHub](https://github.com/suiware/SuiwareFaucetBot) ⚠️ Archived - [Telegram Bot](https://t.me/SuiwareFaucetBot)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
