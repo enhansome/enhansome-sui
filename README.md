@@ -45,7 +45,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Emacs move-mode](https://github.com/amnn/move-mode) ⭐ 19 | 🐛 4 | 🌐 Emacs Lisp | 📅 2025-12-24 - The move-mode package is an Emacs major-mode for editing smart contracts written in the Move programming language.
 * [Move.vim](https://github.com/yanganto/move.vim) ⭐ 5 | 🐛 0 | 🌐 Vim Script | 📅 2025-01-09 - Syntax highlighting that supports the Move 2024 edition.
 * VSCode Move by Mysten Labs - VSCode Extension supports Move on Sui development with LSP features through Move Analyzer developed by Mysten Labs.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,783 | 🐛 870 | 🌐 Rust | 📅 2026-11-05 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer) ⭐ 7,782 | 🐛 868 | 🌐 Rust | 📅 2026-11-06 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=mysten.move) - [Further Information](details/ide_vscode_mysten_move_analyzer.md)
 * VSCode Sui Move Analyzer by MoveBit - Alternative VSCode extension developed by MoveBit.
   * [Homepage](https://movebit.xyz/analyzer) - [GitHub](https://github.com/movebit/sui-move-analyzer) ⭐ 41 | 🐛 4 | 🌐 Rust | 📅 2026-02-25 - [Documentation & Tutorial](https://marketplace.visualstudio.com/items?itemName=MoveBit.sui-move-analyzer) - [Further Information](details/ide_vscode_movebit_sui_move_analyzer.md)
 * IntelliJ Sui Move Language Plugin - IntelliJ-based plugin for Move on Sui development.
@@ -53,8 +53,8 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### IDE Utilities
 
-* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,783 | 🐛 870 | 🌐 Rust | 📅 2026-11-05 - A Move language plugin for the Prettier code formatter.
-* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,783 | 🐛 870 | 🌐 Rust | 📅 2026-11-05 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
+* [Prettier Move Plugin](https://github.com/MystenLabs/sui/tree/main/external-crates/move/crates/move-analyzer/prettier-plugin) ⭐ 7,782 | 🐛 868 | 🌐 Rust | 📅 2026-11-06 - A Move language plugin for the Prettier code formatter.
+* [Tree Sitter Move](https://github.com/MystenLabs/sui/tree/main/external-crates/move/tooling/tree-sitter) ⭐ 7,782 | 🐛 868 | 🌐 Rust | 📅 2026-11-06 - Tree Sitter for Move. [What is tree sitter](https://tree-sitter.github.io/tree-sitter/).
 * [Sui Extension](https://github.com/zktx-io/sui-extension) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-19 - The Sui extension provides seamless support for compiling, deploying, and testing Sui smart contracts directly within VS Code.
   * [Homepage](https://marketplace.visualstudio.com/items?itemName=zktxio.sui-extension) - [Documentation](https://docs.zktx.io/vsce/sui/)
 * ⚠️ Sui Simulator - VSCode Extension to streamline Sui development workflow with intuitive UI.
@@ -65,11 +65,11 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Client SDKs
 
 * Sui TypeScript SDK (Mysten Labs) - TypeScript modular library of tools for interacting with the Sui Blockchain.
-  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/sui) ⭐ 97 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
+  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/sui) ⭐ 97 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://sdk.mystenlabs.com/typescript) - [Further Information](details/sdk_sui_typescript.md)
 * Sui Kit(Scallop) - Toolkit for interacting with the Sui network in TypeScript.
   * [GitHub](https://github.com/scallop-io/sui-kit) ⭐ 187 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-28 - [Further Information](details/sdk_sui_kit_scallop.md)
 * Sui Rust SDK (Mysten Labs) - Rust SDK to interact with Sui Blockchain.
-  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,783 | 🐛 870 | 🌐 Rust | 📅 2026-11-05 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
+  * [GitHub](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) ⭐ 7,782 | 🐛 868 | 🌐 Rust | 📅 2026-11-06 - [Documentation](https://mystenlabs.github.io/sui/sui_sdk/index.html) - [Further Information](details/sdk_sui_rust.md)
 * Pysui - Python SDK to interact with Sui Blockchain.
   * [GitHub](https://github.com/FrankC01/pysui?tab=readme-ov-file) ⭐ 211 | 🐛 5 | 🌐 Python | 📅 2026-09-15 - [Documentation](https://pysui.readthedocs.io/en/latest/index.html) - [Pypi](https://pypi.org/project/pysui/) - [Discord](https://discord.gg/uCGYfY4Ph4) - [Further Information](details/sdk_pysui.md)
 * Sui Go SDK (SuiVision) - Golang SDK to interact with Sui Blockchain.
@@ -85,7 +85,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Sui Unity SDK (OpenDive) - The OpenDive Sui Unity SDK is the first fully-featured Unity SDK with offline transaction building.
   * [GitHub](https://github.com/OpenDive/Sui-Unity-SDK) ⭐ 22 | 🐛 14 | 🌐 C# | 📅 2025-11-12 - [Further Information](details/sdk_sui_unity_opendive.md)
 * Dubhe Client (Dubhe Engine) - Supports various platforms including browsers, Node.js, and game engine. It provides a simple interface to interact with your Sui Move contracts.
-  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [Documentation](https://dubhe-docs.obelisk.build/)
+  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-client) ⭐ 74 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - [Documentation](https://dubhe-docs.obelisk.build/)
 
 ### DeFi SDKs
 
@@ -102,13 +102,13 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 ### Client Libraries
 
 * Sui Wallet Standard (Mysten Labs) - A suite of standard utilities for implementing wallets and libraries based on the [Wallet Standard](https://github.com/wallet-standard/wallet-standard/) ⭐ 368 | 🐛 27 | 🌐 TypeScript | 📅 2026-06-03.
-  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/wallet-standard) ⭐ 97 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://docs.sui.io/standards/wallet-standard)
+  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/wallet-standard) ⭐ 97 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://docs.sui.io/standards/wallet-standard)
 * [Sui Client Gen (Kuna Labs)](https://github.com/kunalabs-io/sui-client-gen/tree/master) ⭐ 102 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-26 - A tool for generating TS SDKs for Sui Move smart contracts. Supports code generation both for source code and on-chain packages with no IDLs or ABIs required.
-* [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - Generate TypeScript bindings for Sui contracts.
+* [TypeMove (Sentio)](https://github.com/sentioxyz/typemove/blob/main/packages/sui/Readme.md) ⭐ 52 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - Generate TypeScript bindings for Sui contracts.
 * [BCS Rust](https://github.com/zefchain/bcs) ⭐ 35 | 🐛 4 | 🌐 Rust | 📅 2026-04-25 - BCS with Rust.
 * [BCS Swift](https://github.com/OpenDive/SuiKit/tree/main/Sources/SuiKit/Utils/BCS) ⭐ 22 | 🐛 19 | 🌐 Swift | 📅 2025-12-11 - BCS with Swift.
 * [BCS Unity](https://github.com/OpenDive/Sui-Unity-SDK/tree/main/Assets/Sui-Unity-SDK/Code/OpenDive.BCS) ⭐ 22 | 🐛 14 | 🌐 C# | 📅 2025-11-12 - BCS with Unity C#.
-* [Sui APIs (Mysten Labs)](https://github.com/MystenLabs/sui-apis) ⭐ 19 | 🐛 11 | 🌐 Makefile | 📅 2026-11-04 - Public Sui gRPC interface definitions for generating client libraries, documentation, and other artifacts.
+* [Sui APIs (Mysten Labs)](https://github.com/MystenLabs/sui-apis) ⭐ 19 | 🐛 12 | 🌐 Makefile | 📅 2026-11-06 - Public Sui gRPC interface definitions for generating client libraries, documentation, and other artifacts.
 * [CoinMeta (Polymedia)](https://github.com/juzybits/polymedia-coinmeta) ⭐ 7 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-23 - Library for fetching coin metadata for Sui coins.
 * [BCS Dart](https://github.com/mofalabs/bcs) ⭐ 2 | 🐛 0 | 🌐 Dart | 📅 2026-07-13 - BCS with Dart.
 * [Dubhe Client BCS Decoding (Dubhe Engine)](https://github.com/0xobelisk/dubhe-docs/blob/main/pages/dubhe/sui/client.mdx#bcs-data-decoding) ⭐ 0 | 🐛 4 | 🌐 MDX | 📅 2025-08-11 - Library for supports automatic parsing of BCS types based on contract metadata information and automatic conversion formatting.
@@ -120,7 +120,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### dApp Toolkits
 
-* [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Create a new Dubhe project on Sui.
+* [create-dubhe (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/create-dubhe) ⭐ 74 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - Create a new Dubhe project on Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/quick-start)
 * [Sui Gas Pool (Mysten Labs)](https://github.com/MystenLabs/sui-gas-pool) ⭐ 40 | 🐛 2 | 🌐 Rust | 📅 2026-09-08 - Service that powers sponsored transactions on Sui at scale.
 * [Sui dApp Scaffold (Bucket Protocol)](https://github.com/Bucket-Protocol/sui-dapp-scaffold-v1) ⭐ 28 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-27 - A frontend scaffold for a decentralized application (dApp) on the Sui Blockchain.
@@ -129,7 +129,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * [Wormhole Kit (zktx.io)](https://github.com/zktx-io/wormhole-kit-monorepo) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-29 - React library that enables instant integration of Wormhole into your dapp.
 * [@mysten/create-dapp](https://sdk.mystenlabs.com/dapp-kit/getting-started/create-dapp) - CLI tool that helps you create Sui dApp projects.
 * Sui dApp Kit (Mysten Labs) - Set of React components, hooks, and utilities to help you build a dApp for the Sui ecosystem.
-  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/dapp-kit) ⭐ 97 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
+  * [GitHub](https://github.com/MystenLabs/ts-sdks/tree/main/packages/dapp-kit) ⭐ 97 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-05 - [Documentation](https://sdk.mystenlabs.com/dapp-kit)
 * Sui dApp Starter - Full-stack boilerplate which lets you scaffold a solid foundation for your Sui project and focus on the business logic of your dapp from day one.
   * [GitHub](https://github.com/suiware/sui-dapp-starter?tab=readme-ov-file) ⚠️ Archived - [Documentation](https://sui-dapp-starter.dev/docs/) - [Demo app](https://demo.sui-dapp-starter.dev/)
 * Suiet Wallet Kit - React toolkit for aApps to interact with all wallet types in Sui easily.
@@ -167,9 +167,9 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ### Smart Contract Toolkits
 
-* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,783 | 🐛 870 | 🌐 Rust | 📅 2026-11-05 - Examples of Move on Sui applications.
+* [Move on Sui examples (Mysten Labs)](https://github.com/MystenLabs/sui/tree/main/examples/move) ⭐ 7,782 | 🐛 868 | 🌐 Rust | 📅 2026-11-06 - Examples of Move on Sui applications.
 * [suiup (Mysten Labs)](https://github.com/MystenLabs/suiup) ⭐ 80 | 🐛 5 | 🌐 Rust | 📅 2026-11-02 - Installer and version manager for command-line tools in the Sui ecosystem.
-* [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - For building, and managing Dapps built on Dubhe Engine in Sui.
+* [Dubhe CLI (Dubhe Engine)](https://github.com/0xobelisk/dubhe/tree/main/packages/sui-cli) ⭐ 74 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - For building, and managing Dapps built on Dubhe Engine in Sui.
   * [Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/cli)
 * [Cetus CLMM](https://github.com/CetusProtocol/cetus-contracts/tree/main/packages/cetus_clmm) ⭐ 30 | 🐛 1 | 🌐 Move | 📅 2026-10-29 - The Cetus CLMM DEX open-source code.
 * [IntegerMate (Cetus)](https://github.com/CetusProtocol/integer-mate) ⭐ 20 | 🐛 0 | 🌐 Move | 📅 2026-01-22 - A Library of move module provides signed integer and some integer math functions.
@@ -204,7 +204,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 * Indexer.xyz (behind TradePort) - The ultimate toolkit for accessing NFT data and integrating trading functionality into your app on Sui.
   * [Homepage](https://www.indexer.xyz/) - [API Explorer](https://www.indexer.xyz/api-explorer) - [API Docs](https://tradeport.xyz/docs)
 * Dubhe Indexer (Dubhe Engine) - Automatic integration with Dubhe Engine, automatic indexing of all events based on Dubhe Engine to build Dapp on Sui, based on dubhe configuration files.
-  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
+  * [GitHub](https://github.com/0xobelisk/dubhe/tree/main/crates/dubhe-indexer) ⭐ 74 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - [API Documentation](https://dubhe-docs.obelisk.build/dubhe/sui/indexer)
 * Surflux <a href="https://surflux.dev"><img alt="Surflux logo" src="media/surflux_logo.svg" width="15" /></a> - Developer infrastructure for Sui. Build production-ready apps with powerful APIs, indexing, and real-time data streams.
   * [Homepage](https://surflux.dev/) - [Documentation](https://docs.surflux.dev/) - [Blog](https://surflux.dev/blog)
 
@@ -244,7 +244,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## AI
 
-* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,773 | 🐛 389 | 🌐 TypeScript | 📅 2026-11-05 - Autonomous agents for everyone.
+* [Eliza](https://github.com/elizaOS/eliza) ⭐ 19,778 | 🐛 455 | 🌐 TypeScript | 📅 2026-11-06 - Autonomous agents for everyone.
 * [Mysten Labs Agent Skills](https://github.com/MystenLabs/skills) ⭐ 20 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-04 - Reusable agent skills for building on Sui with Claude Code, Cursor, Codex, and other AI coding agents.
 * [Talus](https://docs.talus.network/) - Build autonomous digital economy powered by Sui.
   * [GitHub](https://github.com/Talus-Network) - [Quick Start](https://docs.talus.network/getting-started/math-branching-quickstart)
@@ -252,7 +252,7 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ## Infrastructure as Code
 
-* [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) ⭐ 74 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-05 - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
+* [Dubhe Engine (Obelisk Labs)](https://github.com/0xobelisk/dubhe) ⭐ 74 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - Engine for Everyone to Build Intent-Centric Worlds ⚙️ An Open-Source toolchain for Move Applications.
   * [Documentation](https://dubhe.obelisk.build/) - [Further Information](details/engine_dubhe.md)
 * Sui Terraform Modules - All-in-one solution for deploying, monitoring, and managing SUI infrastructure with ease.
   * [GitHub](https://github.com/bartosian/sui-terraform-modules) ⭐ 4 | 🐛 0 | 🌐 HCL | 📅 2024-11-13 - [Further Information](details/iac_sui_terraform_modules.md)
@@ -268,4 +268,4 @@ Sui is the first Blockchain built for internet scale, enabling fast, scalable, a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
